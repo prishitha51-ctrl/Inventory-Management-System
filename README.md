@@ -142,5 +142,5 @@ npm start
 Rishitha
 Full Stack Developer
 
-GitHub Repository:
+GitHub Repository:https://github.com/prishitha51-ctrl/Inventory-Management-System/tree/main
 
